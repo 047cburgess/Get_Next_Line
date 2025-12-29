@@ -4,7 +4,7 @@
 
 ## Description
 
-**Get_Next_Line** is a project aimed at implementing a function that reads and returns a line from a file descriptor. This function addresses the complexities of file handling in C, with an emphasis on dynamic memory allocation and efficient operations.
+**Get_Next_Line** is a project aimed at implementing a function that reads and returns a line from a file descriptor. This function addresses the complexities of file handling and dynamic memory allocation in C.
 
 The `Get_Next_Line` project demonstrates the ability to handle a variety of edge cases, such as reading from multiple file descriptors or handling files with no newline characters.
 
